@@ -5,3 +5,6 @@ particular focus in kenya
 
 Link to the web:
 https://emmanuel-km.github.io/energy/
+
+#feedback
+needed
